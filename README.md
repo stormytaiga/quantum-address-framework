@@ -5,7 +5,7 @@
 A new interpretive framework that re-casts measurement, the Quantum Zeno effect, entanglement, decoherence, and the emergence of time itself as consequences of **observation-induced time dilation** and **address conservation** in a computationally minimal universe.
 
 ## Full Paper (PDF)
-→ [Quantum_Address_Framework_Draft_2025.pdf](Quantum_Address_Framework_Draft_2025.pdf)
+→ [Framework.pdf](Framework.pdf)
 
 ## One-sentence summary
 Observation doesn’t collapse anything — it slows down the observed system’s proper time.
